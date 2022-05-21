@@ -1,5 +1,5 @@
-<xml>
+<?xml version="1.0" encoding="UTF-8"?>
 	<name>"Tsvetkova Larisa Sergeevna"</name>
 	<age>"33"</age>
 	<pet>"2"</pet>
-	<sal>"5000"</sal>
+	<salary>"5000"</salary>
