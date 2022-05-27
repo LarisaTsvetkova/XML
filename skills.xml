@@ -2,27 +2,27 @@
 	<1>"QA Theory SDLC STLC"</1>
 	<2>"Client server architecture"</2>
 	<3>"Http Methods"</3>
-	<>"Http server resp codes"</>
-	<>"Structure of http req resp"</>
-	<4>"JSON XML structure"</3>
-	<5>"API Testing Postman JS API Autotests"</4>
-	<>"Logs removing reading</>
-	<6>"Charles Fiddler sniffing http web traffic"</5>
-	<7>"Devtools of web browsers"</6>
-	<8>"VPN tool options"</7>
-	<9>"Mobile testing"</8>
-	<10>"Feature iOS Android guidlines"</9>
-	<11>"Building iOS apps on XCode"</10>
-	<12>"Building Android apps on Android Studio"</11>
-	<13>"ADB"</12>
-	<14>"Proxy VPN on iOS Android"</13>
-	<15>"Sniffing of mob traffic Charles Fiddler"</14>
-	<16>"Terminal Linux"</15>
-	<17>"Bash scripting basics"</16>
-	<18>"Access to remote servers"</17>
-	<19>"SQL basics"</18>
-	<20>"Postgres database"</19>
-	<21>"Non relational database Redis"</20>
-	<22>"Load testing Jmeter"</21>
-	<23>"Scrum development methodology"</22>
-	<24>"Python basics"</23>
+	<4>"Http server resp codes"</4>
+	<5>"Structure of http req resp"</5>
+	<6>"JSON XML structure"</6>
+	<7>"API Testing Postman JS API Autotests"</7>
+	<8>"Logs removing reading</8>
+	<9>"Charles Fiddler sniffing http web traffic"</9>
+	<10>"Devtools of web browsers"</10>
+	<11>"VPN tool options"</11>
+	<12>"Mobile testing"</12>
+	<13>"Feature iOS Android guidlines"</13>
+	<14>"Building iOS apps on XCode"</14>
+	<15>"Building Android apps on Android Studio"</15>
+	<16>"ADB"</16>
+	<17>"Proxy VPN on iOS Android"</17>
+	<18>"Sniffing of mob traffic Charles Fiddler"</18>
+	<19>"Terminal Linux"</19>
+	<20>"Bash scripting basics"</20>
+	<21>"Access to remote servers"</21>
+	<22>"SQL basics"</22>
+	<23>"Postgres database"</23>
+	<24>"Non relational database Redis"</24>
+	<25>"Load testing Jmeter"</25>
+	<26>"Scrum development methodology"</26>
+	<27>"Python basics"</27>
