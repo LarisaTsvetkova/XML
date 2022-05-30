@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 	 
-  <ID>:"14865"</ID>
+  <ID>"14865"</ID>
   <Title>:"Oracle BI 11g Map Viewer:Clicking logout reloads the page itself but doesn't logout the user"</Title>
   <Description>:
   <Steps_to_reproduce>:"1)Open Oracle BI 11g Map Viewer page 2)Click logout link at the top right corner of the page"</Steps_to_reproduce>
